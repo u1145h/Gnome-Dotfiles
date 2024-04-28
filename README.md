@@ -28,5 +28,3 @@ From Source,
 - [User Themes](https://extensions.gnome.org/extension/19/user-themes/)
 - [Virals](https://extensions.gnome.org/extension/1460/vitals/)
 - [AppIndicator and KStatusNotifierItem Support](https://extensions.gnome.org/extension/615/appindicator-support/)
-
-### ad
