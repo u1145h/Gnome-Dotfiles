@@ -1,10 +1,11 @@
 # Gnome Gruvbox Theme
 Basic Gnome Customization fro new Linux user.
 
-![[[1 (1).jpg](https://github.com/u1145h/Gnome-Dotfiles/blob/main/Screenshot%20-%20Tiling%20Off.png)]]
+![Screenshot - Tiling Off](https://github.com/u1145h/Gnome-Dotfiles/assets/78568197/4be9ae6b-8091-4f74-a30f-19e89a197501)
 
-![[/home/u1145h/Pictures/Screenshots/Screenshot from 2024-04-29 15-45-18.png
-/home/u1145h/Pictures/Screenshots/Screenshot from 2024-04-29 15-42-55.png]]
+![Screenshot - Tiling](https://github.com/u1145h/Gnome-Dotfiles/assets/78568197/da5906dc-bc37-4216-afe8-dda4c16c3cc0)
+
+
 
 #### Install Gnome Tweaks and Gnome Shell Extension
 - Debian
