@@ -1,6 +1,12 @@
 # Gnome Gruvbox Theme
 Basic Gnome Customization fro new Linux user.
 
+file:///home/u1145h/Pictures/Screenshots/Screenshot%20from%202024-04-29%2015-42-55.png
+
+![Uploading Screenshot from 2024-04-29 15-45-18.png…]()
+
+
+
 #### Install Gnome Tweaks and Gnome Shell Extension
 - Debian
 ```shell
