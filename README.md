@@ -1,6 +1,7 @@
 ## Gnome Gruvbox Theme
-![Screenshot - Tiling Off](https://github.com/u1145h/Gnome-Dotfiles/assets/78568197/4be9ae6b-8091-4f74-a30f-19e89a197501)
-![Screenshot - Tiling](https://github.com/u1145h/Gnome-Dotfiles/assets/78568197/da5906dc-bc37-4216-afe8-dda4c16c3cc0)
+![Screenshot from 2024-04-30 08-23-59](https://github.com/u1145h/Gnome-Dotfiles/assets/78568197/5b46d422-6745-4cdb-9c81-bdba42d96634)
+![Screenshot from 2024-04-30 08-25-07](https://github.com/u1145h/Gnome-Dotfiles/assets/78568197/54594734-c5e4-410c-9efc-703d5a12278a)
+
 
 ##### Important
 - [Gnome Tweaks](https://github.com/GNOME/gnome-tweaks)
